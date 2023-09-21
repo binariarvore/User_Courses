@@ -9,9 +9,9 @@ API feita para gerir rotinas de faculdade, como cadastro de cursos, alunos, usua
 
 ```
 {
-    "name": string
-    "email": string
-    "password": number
+    "name": string,
+    "email": string,
+    "password": string,
     "admin": boolean
 }
 ```
